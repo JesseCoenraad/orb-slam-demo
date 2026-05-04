@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="<REPO_NAME_HERE>"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
-ARG MAINTAINER="<YOUR_FULL_NAME> (<YOUR_EMAIL_ADDRESS>)"
+ARG REPO_NAME="orb-slam-demo"
+ARG DESCRIPTION="ORB-SLAM demo for Duckietown — feature extraction, pose estimation, triangulation, and point cloud visualization"
+ARG MAINTAINER="Vikram Mark Radhakrishnan (vik.radhkrishn@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
 
