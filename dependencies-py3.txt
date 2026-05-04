@@ -1,1 +1,4 @@
-# LIST YOUR PYTHON3 PACKAGES HERE
+# Point cloud visualization — pip wheel available for x86_64 and arm64 (0.18+)
+open3d
+# Matplotlib is the fallback visualizer if open3d is unavailable
+matplotlib

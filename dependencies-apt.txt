@@ -1,1 +1,6 @@
-# LIST YOUR APT PACKAGES HERE
+# Open3D display dependencies (x86_64)
+libgl1-mesa-glx
+libglib2.0-0
+libgomp1
+# Matplotlib TkAgg backend fallback
+python3-tk
