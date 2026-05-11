@@ -2,8 +2,8 @@
   <!-- ORB-SLAM pipeline node -->
   <node pkg="orb_slam_node" type="orb_slam_node.py" name="orb_slam_node" output="screen">
     <!-- Input topics — adjust to match your camera driver -->
-    <param name="image_topic"       value="/camera_node/image/compressed"/>
-    <param name="camera_info_topic" value="/camera_node/camera_info"/>
+    <param name="image_topic"       value="/myduckiebot/camera_node/image/compressed"/>
+    <param name="camera_info_topic" value="/myduckiebot/camera_node/camera_info"/>
 
     <!-- ORB feature count per frame (higher = denser map, slower) -->
     <param name="n_features"     type="int"    value="5000"/>
