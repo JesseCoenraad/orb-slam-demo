@@ -4,3 +4,4 @@ libglib2.0-0
 libgomp1
 # Matplotlib TkAgg backend fallback
 python3-tk
+python3-pyqt5
